@@ -48,7 +48,6 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.nar
 *.ear
@@ -151,6 +150,7 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 
 # # VS Code Specific Java Settings
+.vscode/
 .classpath
 .project
 .settings/
